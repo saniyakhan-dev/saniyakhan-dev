@@ -1,6 +1,6 @@
 # Saniya Khan
 
-### Computer Science Graduate | Aspiring Product Manager | AI • Technology • Data
+### Computer Science Graduate | Product Management | AI • Technology • Data
 
 Computer Science graduate exploring Product Management, with an interest in AI, data, and technology-driven products.
 
@@ -8,12 +8,10 @@ With a background in software development, I’m now focusing on the product sid
 
 ## 🎯 Areas of Interest
 
-- Product Management
 - Product Discovery & User Research
 - AI Products
 - Data & Decision-Support Products
 - Technical Product Management
-- User-Centered Problem Solving
 
 ## 🚀 Featured Project
 
@@ -21,17 +19,11 @@ With a background in software development, I’m now focusing on the product sid
 
 Team project focused on using DWLR data for real-time groundwater resource evaluation and analysis.
 
-The project brought together forecasting, anomaly detection, explainable model insights, and an interactive dashboard to help make groundwater data easier to analyze and use for decision-making.
-
-- Groundwater forecasting
-- Anomaly detection
-- Explainable model insights
-- District, state, and national-level summaries
-- Decision-support views through an interactive dashboard
+The project combined forecasting, anomaly detection, explainable model insights, and an interactive dashboard to make groundwater data easier to analyze and use for decision-making.
 
 **Technologies:** Python · Streamlit · XGBoost · Random Forest · Isolation Forest · SHAP · WRIS API
 
-**Focus:** Data Products · Decision Support · Machine Learning · Real-world Problem Solving
+**Focus:** Data Products · Decision Support · Machine Learning
 
 ## 💻 Technical Foundation
 
