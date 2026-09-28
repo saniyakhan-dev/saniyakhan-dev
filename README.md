@@ -1,29 +1,29 @@
 # Saniya Khan
 
-### Computer Science Graduate | Product Management | AI • Technology • Data
+### Computer Science Graduate | Aspiring Product Manager | AI • Technology • Data
 
-Computer Science graduate exploring Product Management, with an interest in AI, data, and technology-driven products.
+I’m a Computer Science graduate exploring Product Management, with a particular interest in AI and technology-driven products.
 
-With a background in software development, I’m now focusing on the product side — understanding problems, users, and how technology can turn ideas into useful solutions.
+I enjoy understanding how a problem works before jumping into a solution — what people are struggling with, why existing solutions fall short, and where technology can actually make things simpler or better.
 
-## 🎯 Areas of Interest
+My technical background helps me understand the building side of products, while I’m now developing the product side: research, problem-solving, product thinking, and turning ideas into something people can actually use.
+
+## 💭 What I'm Interested In
 
 - Product Discovery & User Research
 - AI Products
-- Data & Decision-Support Products
 - Technical Product Management
+- Data-Driven Products
+- Product Strategy & Problem Solving
 
-## 🚀 Featured Project
+## ✨ What I Bring
 
-### 🌍 JalDarpan — Smart India Hackathon
-
-Team project focused on using DWLR data for real-time groundwater resource evaluation and analysis.
-
-The project combined forecasting, anomaly detection, explainable model insights, and an interactive dashboard to make groundwater data easier to analyze and use for decision-making.
-
-**Technologies:** Python · Streamlit · XGBoost · Random Forest · Isolation Forest · SHAP · WRIS API
-
-**Focus:** Data Products · Decision Support · Machine Learning
+- A strong foundation in Computer Science and software development
+- The ability to break down complex problems and look at them from different angles
+- Curiosity about how people actually use products
+- A mix of technical understanding and product thinking
+- A hands-on approach to research, analysis, prototyping, and building
+- A habit of questioning assumptions instead of taking the first solution at face value
 
 ## 💻 Technical Foundation
 
@@ -33,14 +33,20 @@ The project combined forecasting, anomaly detection, explainable model insights,
 
 **AI & Data:** Python · AI/ML Fundamentals · Prompt Design
 
-## 🧠 Product Approach
+## 🧩 How I Approach Problems
 
-- Start with the problem before defining the solution.
-- Understand users and their existing workflows.
-- Challenge assumptions with evidence.
-- Prioritize the smallest useful solution.
-- Measure outcomes and iterate.
+- Understand the problem before designing the solution.
+- Start with the user and their actual experience.
+- Break complicated problems into smaller pieces.
+- Use technology because it helps, not just because it can.
+- Build, learn, and improve along the way.
+
+## 🌱 Currently Exploring
+
+**Product Management × AI × Technology**
+
+Currently building my understanding of product discovery, user research, product strategy, and AI-powered products while continuing to strengthen my technical skills.
 
 ## 🔗 Connect
 
-[LinkedIn](https://www.linkedin.com/in/saniya-khan-65801a253)
+[LinkedIn](YOUR-LINK)
