@@ -2,9 +2,9 @@
 
 ### Computer Science Graduate | Aspiring Product Manager | AI • Technology • Data
 
-Computer Science graduate transitioning into Product Management, with a strong interest in AI, data, and technology-driven products.
+Computer Science graduate exploring Product Management, with an interest in AI, data, and technology-driven products.
 
-My technical background gives me an understanding of how software is built, and I’m currently developing my skills in problem discovery, user research, product thinking, and solution design.
+With a background in software development, I’m now focusing on the product side — understanding problems, users, and how technology can turn ideas into useful solutions.
 
 ## 🎯 Areas of Interest
 
@@ -19,9 +19,9 @@ My technical background gives me an understanding of how software is built, and 
 
 ### 🌍 JalDarpan — Smart India Hackathon
 
-Team project focused on a groundwater intelligence framework for real-time groundwater resource evaluation using DWLR data.
+Team project focused on using DWLR data for real-time groundwater resource evaluation and analysis.
 
-JalDarpan transforms groundwater observations into useful information for decision-making through:
+The project brought together forecasting, anomaly detection, explainable model insights, and an interactive dashboard to help make groundwater data easier to analyze and use for decision-making.
 
 - Groundwater forecasting
 - Anomaly detection
